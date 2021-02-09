@@ -15,5 +15,5 @@
 - ✨ ...
 
 
-[![BeyondXinXin's github stats](https://github-readme-stats.vercel.app/api?username=BeyondXinXin&theme=graywhite&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&locale=cn)]()
-
+[![BeyondXinXin's github stats](https://github-readme-stats.vercel.app/api?username=BeyondXinXin&theme=compact&hide_border=true&show_icons=true&locale=cn)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondXinXin&layout=compact&hide_border=true&locale=cn)]()
