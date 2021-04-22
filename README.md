@@ -1,16 +1,3 @@
 ### Hi there 👋
 
-<!--
-**BeyondXinXin/BeyondXinXIn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🔭 
-- 🌱 
-- 👯 
-- 🤔 
-- 💬 
-- 📫 
-- 😄 
-- ⚡ 
-- ✨ 
-
+- 🔭 人最怕安逸，追求什么也别追求安逸
