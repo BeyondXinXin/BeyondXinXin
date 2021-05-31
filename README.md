@@ -1,6 +1,6 @@
 ### 
 
-> 人最怕安逸，追求什么也别追求安逸。
+> Keep Reading , Keep Writing , Keep Coding.
 
 
 ---
