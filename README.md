@@ -6,4 +6,4 @@
 ---
 
 
-![](https://cdn.jsdelivr.net/gh/BeyondXinXin/BeyondXinXIn@main/PixX/程序人生.19r7xgrosnhc.jpg)
+![](https://raw.githubusercontent.com/BeyondXinXin/BeyondXinXIn/main/PixX/xxx.6k9tucu9g440.jpg)
