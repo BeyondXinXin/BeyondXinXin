@@ -1,6 +1,6 @@
 ### 
 
-> Keep Reading , Keep Writing , Keep Coding.
+> Be kind, classy, and professional. Hold a high standard for yourself.
 
 
 ---
